@@ -1,17 +1,13 @@
 <img align="center" alt="Coding" width="900" height="210" src="https://i.pinimg.com/736x/45/05/cf/4505cf2c0926b7cb73178a87e40b3af2--javascript-python.jpg">
 <!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
 
-<h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">I am Richard Miruka</h1> 
+<h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">I am Alphonce Mcrymbo</h1> 
 
 <h3 align="left">A Software Engineer, Specialized in Full Stack Development; React.JS, Node.JS, Flask, Django & TypeScript </h3>
 
-<p align="left"> <a href="https://github.com/RichardMiruka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka" alt="RichardMiruka" /></a> </p>
+<p align="left"> <a href="https://github.com/Mcrymbo/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mcrymbo" alt="Alphonce Mcrymbo" /></a> </p>
 
 I'm Glad You're Checking My Profile 😁
-
-<!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
-
-🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
 
 🔭 ALX Intro To SWE Program  Graduate. (Stack: Python - Flask, JavaScript - React/Vue.)
 
@@ -43,9 +39,9 @@ I'm Glad You're Checking My Profile 😁
 [](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
 
  ## Stats.
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMiruka&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardMiruka&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Richard Miruka's Github stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardMiruka&theme=dark" alt="RichardMiruka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcrymbo&layout=compact&theme=light&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mcrymbo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Mcrymbo's Github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mcrymbo&theme=dark" alt="Mcrymbo" /></p>
 <br/>
 
 
